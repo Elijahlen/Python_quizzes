@@ -1,5 +1,5 @@
 # Python_
-Comp9021 18s1 quizzes where *pdf* is the spec of the quiz, and final is my imperfect solution.
+Comp9021 18s1 quizzes where **pdf** is the spec of the quiz, and **final** is my imperfect solution.
 * quiz 1 : operate lists
 * quiz 2 : operate numbers
 * quiz 3 : dynamic programming
