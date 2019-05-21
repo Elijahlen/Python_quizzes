@@ -1,5 +1,5 @@
 # Python_
-Comp9820 18s1 quizzes
+Comp9021 18s1 quizzes
 * quiz 1 : operate lists
 * quiz 2 : operate numbers
 * quiz 3 : dynamic programming
